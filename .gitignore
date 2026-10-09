@@ -1,0 +1,20 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.env
+*.db
+*.sqlite3
+.DS_Store
+.idea/
+.vscode/
+
+# graphify knowledge-graph build artifacts (not source)
+graphify-out/
+
+# server / build logs
+*.log
+*.err
+server.err
